@@ -1,5 +1,5 @@
 ---
-title: "Title of HIS 1105 project"
+title: "The Filipino-New Mexican Connection"
 author: Your name
 layout: scrollstory
 header-image: images/Raton_1882.jpg
