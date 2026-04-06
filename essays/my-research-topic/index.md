@@ -1,10 +1,10 @@
 ---
 title: "The Filipino-New Mexican Connection"
-author: Your name
+author: Lukias Raiten
 layout: scrollstory
 header-image: images/Raton_1882.jpg
 thumbnail: images/Raton_1882.jpg
-summary: One sentence summary of your project 
+summary: A brief overview on the connection and history between Filipino-Americans in New Mexico 
 ---
 
 # Title of Project
