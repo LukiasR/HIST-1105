@@ -23,8 +23,8 @@ With the impact of World War II Filipino identity was harmed in the American pub
 The history and interactions of Filipino Americans throughout this period are very important to AAPI history, they highlight the issues faced by a group from a U.S. territory dealing with class disparity and racial discrimination. Prior to WWII the Tydings-McDuffie Act of 1934 gave classification for Filipinos established in American territory as "aliens" inferring their inability to gain naturalization rights unless born in the U.S. This legal imposement created a great identity crisis, as expressed by immigrants who felt like a "stranger" despite living and dressing "like an American." This structural limitation, along with "labor exploitation, mob violence, and segregation," placed Filipinos in a problematic position within American society, some individual principles were perceived yet often they remained often conflated with other Asian groups. Their service in WWII especially in the 1st and 2nd Filipino Regiments, was a great example of their desire for an American identity and their willingness to challenge the discriminatory structures, even if the government aid and benefits to veterans were greatly delayed and withheld. 
 
 {%
-![Image test](https://github.com/LukiasR/HIST-1105/blob/main/essays/The%20Filipino-New%20Mexican%20Connection/images/Screenshot%202026-05-06%20134013.jpg?raw=true)
-image-width="70%"
+  ![Image test](https://github.com/LukiasR/HIST-1105/blob/main/essays/The%20Filipino-New%20Mexican%20Connection/images/Screenshot%202026-05-06%20134013.jpg?raw=true)
+  image-width="70%"
 %}
 
 ## New Mexico's Relation with the Philippines
