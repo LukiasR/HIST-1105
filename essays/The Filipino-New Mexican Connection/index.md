@@ -17,9 +17,6 @@ Throughout World War II, Filipinos faced a forced confrontation with complex ide
 With the impact of World War II Filipino identity was harmed in the American public eye, making their distinction and connection to the Japanese an urgent national interest. Previous to the war, many Americans already held suspicions about Filipinos, largely due to their social/colonial status and racial appearance. The Albuquerque Journal clipping "Our Filipino Comrades" expresses an ethnic/racial class hierarchy questioning, "Was the Filipino as much an American as a Japanese? Would he be loyal or become a fifth columnist?" This question undermines the societal pressure facing Filipinos to clearly display their loyalty to the United States, especially as their homeland was under the attack of the Japanese. The article states that "The average continental American- frequently has difficulty distinguishing a Filipino from a Japanese. But now he knows that the racial resemblance is only skin deep." This shows how this articles manner of positive criticism for Filipinos are negated by the racial hierarchies used to emphasize them.
 
 
-{% 
-  ![alt text](<images/Screenshot 2026-05-06 134013.jpg>)
-%}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
 
@@ -32,24 +29,14 @@ You may divide your text by inserting a pull from a primary or secondary source 
 The history and interactions of Filipino Americans throughout this period are very important to AAPI history, they highlight the issues faced by a group from a U.S. territory dealing with class disparity and racial discrimination. Prior to WWII the Tydings-McDuffie Act of 1934 gave classification for Filipinos established in American territory as "aliens" inferring their inability to gain naturalization rights unless born in the U.S. This legal imposement created a great identity crisis, as expressed by immigrants who felt like a "stranger" despite living and dressing "like an American." This structural limitation, along with "labor exploitation, mob violence, and segregation," placed Filipinos in a problematic position within American society, some individual principles were perceived yet often they remained often conflated with other Asian groups. Their service in WWII especially in the 1st and 2nd Filipino Regiments, was a great example of their desire for an American identity and their willingness to challenge the discriminatory structures, even if the government aid and benefits to veterans were greatly delayed and withheld. 
 
 
-{% ![alt text](<images/Screenshot 2026-05-06 134013.jpg>)
-  image-path="images/Concerns_Raton.jpg"
-  image-position="left"
-  image-width="70%"
-  caption=
+{%
+ ![alt text](<images/Screenshot 2026-05-06 134013.jpg>)
 %}
 
 ## New Mexico's Relation with the Philippines
 
 The relationship of the Philippines and New Mexico historically is not very direct, rather it is seen through shared experiences under Spanish and later American colonial rule and furthered by the effects of World War II. Both of the territories have experienced nearly 300 years of Spanish colonization, leading to cultural similarities seen in Christian names, language influences, and Catholicism. Later, both territories experienced American territorial governance, New Mexico's struggle for statehood was even used as a comparison to argue against Filipinos' capacity for Americanization. Throughout WWII, the bond grew as approximately 1800 New Mexicans, mainly from the National Guard's 200th Coastal Artillery, were deployed to the Philippines. Vast numbers died in the defense of Bataan and Corregidor, and the Bataan Death March, creating a direct connection of the two regions.
 
-{% include images/figure-wrap.html
-  image-path="images/Screenshot 2026-05-06 134013.jpg"
-  image-position="center"
-  image-width="70%"
-  caption="Members of the First Filipino Infantry Regiment train on a machine gun, demonstrating their commitment to fighting for the United States despite facing discrimination and being classified as aliens. [Source: U.S. National Archives] (1943)."
-  text=Chinese_leave_Raton_text 
-%}
 
 
 
