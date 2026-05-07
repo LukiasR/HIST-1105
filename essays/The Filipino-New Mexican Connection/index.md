@@ -37,3 +37,29 @@ Private Doroteo F. Corpuz and Cornelius S. Daur clean their new Garand rifles at
 ## Unanswered Loyalty and Sacrifice
 
 The experiences of Filipinos throughout American history are a strong example of the issues of identity, loyalty, and the pursuit of justice faced within American society. The period circling these events vaguely exposed the structural and social issues stemming from their colonial past and the unjust association with the Japanese, forcing them to not only fight an external enemy but also internal prejudices. Their very apparent loyalty and immense sacrifices, often overshadowed by alien status and racial suspicion, earned them a "newfound respect" and greatly contributed to the Allied victory. Though the continual denial of veteran benefits with the Rescission Act of 1946 shows a lasting struggle for full recognition and compensation with many veterans going decades with no compensation. This struggle shows the continual impact of war on identity, the systemic challenges immigrants and colonized populations have faced, and how far we still are from fully recognizing the issue. It raises more questions regarding the multi-generational effects of the Rescission Act, the adaptation of Filipino Americans identity post Bataan and WWII, along with how their experiences still shape the broader AAPI community and their connection to their residence such as New Mexico.
+
+
+
+## Bibliography
+
+Primary Sources-
+
+“The Case of New Mexico.” The Atlanta Constitution, 6 Sept. 1901,   https://www.proquest.com/docview/495691890/5AB83D3C2E14C40PQ/16?accountid=14613&sourcetype=Newspapers  . 
+
+“Filipinos Remain Loyal.” Albuquerque Publishing Company, 9 Apr. 1942, https://www.proquest.com/docview/2122671352/5AB83D3C2E14C40PQ/92?accountid=14613&sourcetype=Newspapers . 
+
+“Our Filipino Comrades.” Albuquerque Journal, 19 Dec. 1941. https://www.newspapers.com/newspage/156963533/  
+
+  
+
+Secondary Sources-
+
+Alcantra, Dely, and Tessie Ordoña. “The Philippines- New Mexico Connection and the Filipino Migration to New Mexico.” Pinoy, pinoy-newmexico.com/wp-content/uploads/2015/12/Philippine-NM-Connection.pdf. Accessed 9 Mar. 2026.  
+
+“Battle of Bataan.” The National WWII Museum | New Orleans, www.nationalww2museum.org/war/topics/battle-bataan-death-march. Accessed 8 Mar. 2026. 
+
+“Filipinos Plan No Observance of Bataan Fall.” Chicago Daily Tribune, 8 Apr. 1953, https://www.proquest.com/docview/178469661/8A48F89E52B7494CPQ/1?accountid=14613&sourcetype=Newspapers 
+
+Krueger, Alton. “Filipino Regiments of WWII.” National Museum of the Pacific War, www.pacificwarmuseum.org/learn/articles/filipino-regiments. Accessed 6 May 2026.  
+
+“REMEMBER BATAAN”: MEMBERS OF NEW FILIPINO BATTALION. 23 Apr. 1942. Pro Quest, https://www.proquest.com/docview/106134723/A22F422B6C9340A6PQ/5?accountid=14613&sourcetype=Newspapers.  
