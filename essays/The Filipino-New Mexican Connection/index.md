@@ -7,7 +7,8 @@ thumbnail: images/Raton_1882.jpg
 summary: A brief overview on the connection and history between Filipino-Americans in New Mexico 
 ---
 
-# Filipino Americans Struggle for Identity Amidst Shadow of Association
+# Filipino Americans Struggle for Identity 
+# Amidst Shadow of Association
 
 Throughout World War II, Filipinos faced a forced confrontation with complex identity as colonial subjects, aspiring citizens, and a distinct ethnic group often fused with their Japanese adversaries. Through the Spanish colonization connecting the Philippines and New Mexico, and American territorial rule, Filipinos have faced several structural barriers such as alien status and social challenges including racial prejudice and the stigma of a “forever foreigner”. The war showcased the long-standing identity crisis of Filipino Americans and their discriminatory association with the Japanese. Their struggle for recognition, loyalty, and belonging can help give a better understanding of the broader Asian American and Pacific Islander experience in America and New Mexico's connection with the Philippines. 
 
@@ -16,11 +17,8 @@ Throughout World War II, Filipinos faced a forced confrontation with complex ide
 With the impact of World War II Filipino identity was harmed in the American public eye, making their distinction and connection to the Japanese an urgent national interest. Previous to the war, many Americans already held suspicions about Filipinos, largely due to their social/colonial status and racial appearance. The Albuquerque Journal clipping "Our Filipino Comrades" expresses an ethnic/racial class hierarchy questioning, "Was the Filipino as much an American as a Japanese? Would he be loyal or become a fifth columnist?" This question undermines the societal pressure facing Filipinos to clearly display their loyalty to the United States, especially as their homeland was under the attack of the Japanese. The article states that "The average continental American- frequently has difficulty distinguishing a Filipino from a Japanese. But now he knows that the racial resemblance is only skin deep." This shows how this articles manner of positive criticism for Filipinos are negated by the racial hierarchies used to emphasize them.
 
 
-{% include images/figure-wrap.html
-  image-path="images/Raton_let_the_boycotters_kill_them.jpg"
-  image-position="right"
-  image-width="50%"
-  caption="The Silver City Enterprise editor questioned why some Raton residents would protect the Chinese.[Source: Sierra County Advocate](January 23, 1886, 2.)"
+{% 
+  ![alt text](<images/Screenshot 2026-05-06 134013.jpg>)
 %}
 
 {% include typography/pullquote.html text="\"It is a shame for the people of Raton to 'protect' the Chinese. They ought to stand aside and let the boycotters kill them...\""%}
@@ -33,16 +31,12 @@ You may divide your text by inserting a pull from a primary or secondary source 
 
 The history and interactions of Filipino Americans throughout this period are very important to AAPI history, they highlight the issues faced by a group from a U.S. territory dealing with class disparity and racial discrimination. Prior to WWII the Tydings-McDuffie Act of 1934 gave classification for Filipinos established in American territory as "aliens" inferring their inability to gain naturalization rights unless born in the U.S. This legal imposement created a great identity crisis, as expressed by immigrants who felt like a "stranger" despite living and dressing "like an American." This structural limitation, along with "labor exploitation, mob violence, and segregation," placed Filipinos in a problematic position within American society, some individual principles were perceived yet often they remained often conflated with other Asian groups. Their service in WWII especially in the 1st and 2nd Filipino Regiments, was a great example of their desire for an American identity and their willingness to challenge the discriminatory structures, even if the government aid and benefits to veterans were greatly delayed and withheld. 
 
-{% capture Removal_Chinese_text %}
-The coding for this section positions this text in relation to the image. *The Las Vegas Gazette* expressed confidence that the town of Raton  succesfully would remove Chinese settlers without the Knights of Labor committing acts of violence.  
-{% endcapture %}
 
-{% include images/figure-wrap.html
+{% ![alt text](<images/Screenshot 2026-05-06 134013.jpg>)
   image-path="images/Concerns_Raton.jpg"
   image-position="left"
   image-width="70%"
-  caption="Insert your caption for Image B here. [Source: Insert brief source here, e.g. Las Vegas Gazette] (Month day, year, page number.)"
-  text=Removal_Chinese_text 
+  caption=
 %}
 
 ## New Mexico's Relation with the Philippines
@@ -50,10 +44,10 @@ The coding for this section positions this text in relation to the image. *The L
 The relationship of the Philippines and New Mexico historically is not very direct, rather it is seen through shared experiences under Spanish and later American colonial rule and furthered by the effects of World War II. Both of the territories have experienced nearly 300 years of Spanish colonization, leading to cultural similarities seen in Christian names, language influences, and Catholicism. Later, both territories experienced American territorial governance, New Mexico's struggle for statehood was even used as a comparison to argue against Filipinos' capacity for Americanization. Throughout WWII, the bond grew as approximately 1800 New Mexicans, mainly from the National Guard's 200th Coastal Artillery, were deployed to the Philippines. Vast numbers died in the defense of Bataan and Corregidor, and the Bataan Death March, creating a direct connection of the two regions.
 
 {% include images/figure-wrap.html
-  image-path="images/Chinese_leave_Raton.jpg"
+  image-path="images/Screenshot 2026-05-06 134013.jpg"
   image-position="center"
   image-width="70%"
-  caption="Insert your caption for Image C here. At least a few Chinese settlers left not only Raton but the state of New Mexico in response to pressure from the Knights of Labor. [Source: Las Vegas Gazette] (December 13, 1882, 4.)"
+  caption="Members of the First Filipino Infantry Regiment train on a machine gun, demonstrating their commitment to fighting for the United States despite facing discrimination and being classified as aliens. [Source: U.S. National Archives] (1943)."
   text=Chinese_leave_Raton_text 
 %}
 
