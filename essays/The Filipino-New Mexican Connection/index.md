@@ -2,7 +2,7 @@
 title: "Filipino Americans Struggle for Identity Amidst Shadow of Association"
 author: Lukias Raiten
 layout: scrollstory
-header-image: ![alt text](images/170406-A-YG824-006.jpg)
+header-image:![alt text] essays/The Filipino-New Mexican Connection/images/170406-A-YG824-006.jpg
 thumbnail: ![alt text](images/170406-A-YG824-006.jpg)
 summary: A brief overview on the connection and history between Filipino-Americans in New Mexico 
 ---
