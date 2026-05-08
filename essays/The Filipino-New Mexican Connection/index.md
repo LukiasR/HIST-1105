@@ -2,7 +2,7 @@
 title: "Filipino Americans Struggle for Identity Amidst Shadow of Association"
 author: Lukias Raiten
 layout: scrollstory
-header-image: images/Raton_1882.jpg
+header-image: essays/The Filipino-New Mexican Connection/images/170406-A-YG824-006.jpg
 thumbnail: images/Raton_1882.jpg
 summary: A brief overview on the connection and history between Filipino-Americans in New Mexico 
 ---
@@ -16,6 +16,8 @@ Throughout World War II, Filipinos faced a forced confrontation with complex ide
 ## Filipinos in the Wartime Spotlight 
 
 With the impact of World War II Filipino identity was harmed in the American public eye, making their distinction and connection to the Japanese an urgent national interest. Previous to the war, many Americans already held suspicions about Filipinos, largely due to their social/colonial status and racial appearance. The Albuquerque Journal clipping "Our Filipino Comrades" expresses an ethnic/racial class hierarchy questioning, "Was the Filipino as much an American as a Japanese? Would he be loyal or become a fifth columnist?" This question undermines the societal pressure facing Filipinos to clearly display their loyalty to the United States, especially as their homeland was under the attack of the Japanese. The article states that "The average continental American- frequently has difficulty distinguishing a Filipino from a Japanese. But now he knows that the racial resemblance is only skin deep." This shows how this articles manner of positive criticism for Filipinos are negated by the racial hierarchies used to emphasize them.
+
+
 
 
 ## AAPI Historical Connection
